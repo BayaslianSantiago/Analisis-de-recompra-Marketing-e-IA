@@ -40,7 +40,7 @@ st.markdown("""
     
     /* Texto general */
     p, .stMarkdown {
-        color: #ffffff;
+        color: #000000;
     }
     
     /* Labels y textos de elementos */
