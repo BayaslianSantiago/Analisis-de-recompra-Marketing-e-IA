@@ -16,7 +16,7 @@ Aplicación web interactiva desarrollada con Streamlit para analizar el comporta
 
 ## 🚀 Demo
 
-[Ver aplicación en vivo](URL_DE_TU_APP_EN_STREAMLIT_CLOUD)
+[Ver aplicación en vivo](https://recompra-informe.streamlit.app/)
 
 ## 📋 Requisitos Previos
 
